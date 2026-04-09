@@ -34,35 +34,21 @@ nivel_educacion, experiencia_previa, monto_inversion
 curso_completado, puntaje_satisfaccion
 
 ⚙️ Metodología
-Análisis Exploratorio y Visualización
-
-Limpieza de datos (valores nulos, duplicados).
-
-Estadística descriptiva (medias, medianas, distribuciones).
-
-Visualización (gráficos de barras, histogramas, correlaciones).
-
-Preparación de Datos y Feature Engineering
-
-Normalización y creación de variables derivadas.
-
-Modelado Predictivo con Machine Learning
-
-Modelos de clasificación (Logistic Regression, Random Forest).
-
-Modelos de regresión para satisfacción.
-
-Procesamiento con Apache Spark MLlib
-
-Escalabilidad y paralelización de cálculos.
-
-Inferencia Estadística
-
-Pruebas de hipótesis y validación de resultados.
-
-Entrega Final y Reflexión
-
-Documentación y conclusiones.
+1. Análisis Exploratorio y Visualización
+   Limpieza de datos (valores nulos, duplicados).
+   Estadística descriptiva (medias, medianas, distribuciones).
+   Visualización (gráficos de barras, histogramas, correlaciones).
+2. Preparación de Datos y Feature Engineering
+   Normalización y creación de variables derivadas.
+3. Modelado Predictivo con Machine Learning
+   Modelos de clasificación (Logistic Regression, Random Forest).
+   Modelos de regresión para satisfacción.
+3. Procesamiento con Apache Spark MLlib
+   Escalabilidad y paralelización de cálculos.
+4. Inferencia Estadística
+   Pruebas de hipótesis y validación de resultados.
+5. Entrega Final y Reflexión
+   Documentación y conclusiones.
 
 📈 Resultados
 La satisfacción promedio se situó entre 5.21 y 5.51 (IC 95%).
